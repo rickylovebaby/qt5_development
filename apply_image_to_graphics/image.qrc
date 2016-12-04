@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>butterfly.png</file>
+        <file>tux.png</file>
+    </qresource>
+</RCC>
